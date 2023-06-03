@@ -1,5 +1,5 @@
 theme: minima
-baseurl: ""
+baseurl: "/bernoulli_bandits"
 
 # Github Pages Settings
 lsi: false
