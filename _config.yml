@@ -1,4 +1,5 @@
 theme: minima
+baseurl: ""
 
 # Github Pages Settings
 lsi: false
